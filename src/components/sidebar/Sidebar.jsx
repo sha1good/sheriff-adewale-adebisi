@@ -43,7 +43,7 @@ const Sidebar = () => {
     <div className="sidebar">
       <div className="top">
         <Link to="/" style={{ textDecoration: "none" }}>
-         <span><img src={lendsqrImage} alt="lendsqr" className="logoimage"/></span>
+         <span><img src={lendsqrImage} alt="lends" className="logoimage"/></span>
          <span className="logo">Lendsqr</span>
         </Link>
       </div>
