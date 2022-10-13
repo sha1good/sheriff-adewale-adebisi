@@ -1,0 +1,20 @@
+.column{
+    float: left;
+    width: 30%;
+    padding: 10%;
+    height: 150px;
+}
+
+.auth{
+    float: right;
+    width: 60%;
+    padding: 10%;
+    height:  150px;  
+    margin : -100px auto;
+}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }

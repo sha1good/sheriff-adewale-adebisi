@@ -1,0 +1,14 @@
+
+.welcome{
+    margin : 0 25px;
+    padding: 25px auto;
+    top : 40px;
+   }
+
+.welcome img{
+    position : absolute;
+    width: 600px;
+    height: 400px;
+    left: 67px;
+    top: 120px;
+} 
